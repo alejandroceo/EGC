@@ -1,0 +1,24 @@
+Los iconos en el manifiesto de una extensión de Google Chrome deben tener las siguientes dimensiones:
+
+"16": El icono de 16x16 píxeles se usa para representar la extensión en la barra de herramientas del navegador y en la página de configuración de extensiones.
+
+"48": El icono de 48x48 píxeles se usa para la página de administración de extensiones en el navegador y en la tienda web de Chrome.
+
+"128": El icono de 128x128 píxeles se usa para la instalación de la extensión en la tienda web de Chrome.
+
+
+--------------------------------------
+
+
+Los permisos en el manifiesto de una extensión de Google Chrome son utilizados 
+para solicitar acceso a ciertas capacidades o datos del navegador. 
+Aquí hay algunos permisos comunes y una breve descripción de lo que hacen:
+
+"activeTab": Permite que la extensión acceda a la pestaña activa en el navegador.
+"tabs": Permite que la extensión acceda a las pestañas del navegador y sus URL.
+"storage": Permite que la extensión almacene y recupere datos localmente en el navegador.
+"notifications": Permite a la extensión mostrar notificaciones al usuario.
+"webNavigation": Permite a la extensión observar y manipular la navegación web.
+"webRequest": Permite a la extensión observar y manipular solicitudes de red.
+"cookies": Permite a la extensión acceder y modificar cookies del navegador.
+"identity": Permite a la extensión autenticar al usuario y obtener información de la cuenta del usuario.
