@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Nombre de tu extensión",
+    "version": "X.X.X",
+    "description": "Descripción de tu extensión",
+    "icons": {
+      "16": "icono16.png",
+      "48": "icono48.png",
+      "128": "icono128.png"
+    },
+    "permissions": [
+      "permiso1",
+      "permiso2"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icono16.png",
+        "48": "icono48.png",
+        "128": "icono128.png"
+      }
+    }
+  }
+  
